@@ -1,12 +1,16 @@
 
 ██▓▒­░⡷⠂  ASCII Art Generator ⠐⢾░▒▓██
 
+
+------------------------------------------------------------------------------------------------------
+
 Use Case of the Application :
 
 The ASCII Art Generator is a tool designed to convert images into ASCII art, a form of visual art created using characters from the ASCII standard. This application is useful for :
     - Creating artistic renditions of images in ASCII text format.
     - Generating ASCII-styled image representations for fun, presentations, or unique projects.
     - Saving the ASCII output as both a text file and an image file for further use.
+
 ------------------------------------------------------------------------------------------------------
 
 Requirements : 
