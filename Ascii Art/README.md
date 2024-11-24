@@ -41,19 +41,6 @@ Type exit at any input prompt to quit the program.
 
 ----------------------------------------------------------
 
-User Manual
-
-------------------- User Manual -------------------
-| 1. Supported image formats: .jpg, .jpeg, .png   |
-| 2. Provide the file path to the image.          |
-| 3. Optionally save the ASCII art to a text file.|
-| 4. Optionally save the ASCII art as an image.   |
-| 5. View ASCII art directly in the terminal.     |
-| 6. Type 'exit' anytime to quit the program.     |
---------------------------------------------------
-
-----------------------------------------------------------
-
 Known Issues
 • Complex images may lose detail in the ASCII art.
 • Text alignment may vary based on terminal size.
