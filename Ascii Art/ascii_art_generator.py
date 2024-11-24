@@ -1,3 +1,7 @@
+# MIT License
+# Copyright (c) 2024 Gaurav Suresh Gavhane
+# See the LICENSE file for full details.
+
 from PIL import Image
 import os
 
